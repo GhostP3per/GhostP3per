@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Loc Nguyen. Master in CS @ Oregon State University.
-- Check out some of my projects at https://github.com/MarsPeper
+- Check out some of my other projects at https://github.com/MarsPeper
 - 👀 I’m interested in anything Computer Science related.
 - 💞️ I’m looking to collaborate on anything Computer Science related. Shoot me a message at locdevxwork@gmail.com.
 - 📫 How to reach me locdevxwork@gmail.com
